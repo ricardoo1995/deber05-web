@@ -2,7 +2,7 @@
   "name": "web-deber-5",
   "version": "1.0.0",
   "description": "deber5",
-  "author": "nieto-marcelo",
+  "author": "ricardo-ortiz",
   "license": "MIT",
   "scripts": {
     "format": "prettier --write \"**/*.ts\"",
